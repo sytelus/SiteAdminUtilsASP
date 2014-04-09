@@ -1,0 +1,18 @@
+<Style Type="text/css">
+<!--
+    p, dt, dd, dl, ul, ol, li, font.main{font-family:arial,sans serif;font-size:9pt;color:#000000;}
+    .grande{font-family:verdana,helvetica,arial,sans serif;color:#000000;font-size:20pt;}
+    .normalB{font-family:verdana,helvetica,arial,sans serif;color:#000000;font-size:10pt;font-weight:bold;}
+    .normal{font-family:verdana,helvetica,arial,sans serif;color:#000000;font-size:10pt;}
+    .chica{font-family:verdana,helvetica,arial,sans serif;color:#000000;font-size:7pt;}
+    .hide{font-family:verdana,helvetica,arial,sans serif;font-size:7pt;visibility:hidden;}
+    .hige{font-family:verdana,helvetica,arial,sans serif;color:#000000;font-size:10pt;}
+    .T1{font-family:verdana,arial,sans serif;font-weight:bold;color:#FFCC00;font-size:48pt;}
+    .cabz{font-family:verdana,arial,sans serif;font-weight:bold;color:#FFCC00;font-size:12pt;}
+    .tbl2{font-family:verdana,arial,sans serif;font-weight:bold;color:#FFCC00;font-size:11pt;}
+    .pie{font-family:verdana,arial,sans serif;font-weight:bold;color:#FFCC00;font-size:8pt;}
+    a:link{color:#0000FF;}
+    a:visited{color:#0000FF;}
+    a:hover{color:#ff3300;}
+-->
+</Style>
